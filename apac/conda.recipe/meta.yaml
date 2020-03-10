@@ -8,4 +8,3 @@ requirements:
     - pandas
     - pyodbc
     - xlsxwriter
-    - xml.etree.ElementTree
