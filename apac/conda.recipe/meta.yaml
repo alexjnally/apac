@@ -7,3 +7,5 @@ requirements:
     - python
     - pandas
     - pyodbc
+    - xlsxwriter
+    - xml.etree.ElementTree
