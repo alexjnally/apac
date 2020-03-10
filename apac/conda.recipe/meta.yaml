@@ -1,3 +1,9 @@
 package:
   name: apac  
   version: 0.0.81
+
+requirements:
+  build:
+    - python
+    - pandas
+    - pyodbc
