@@ -2,7 +2,7 @@ from setuptools import setup
 import versioneer
 
 requirements = [
-    'pandas', 'os', 'pyodbc', 'xlsxwriter, 'xml.etree.ElementTree'
+    'pandas', 'os', 'pyodbc', 'xlsxwriter'
 ]
 
 setup(
